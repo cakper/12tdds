@@ -1,0 +1,10 @@
+*.chef/*
+*.vagrant
+.bundle
+bin/*
+build/*
+tools/*
+Gemfile*
+
+vendor
+composer.phar

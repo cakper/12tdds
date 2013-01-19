@@ -1,0 +1,17 @@
+{
+    "require": {
+        "php": ">=5.3.0"
+    },
+        "require-dev": {
+        "phpspec/phpspec2": "dev-develop"
+    },
+        "config": {
+        "bin-dir": "bin"
+    },
+        "autoload": {
+        "psr-0": {
+            "": "src"
+        }
+    },
+        "minimum-stability": "dev"
+}
